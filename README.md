@@ -41,3 +41,20 @@ As categorias são:
 - **CSS e classes:** Nomenclatura clara e padronizada das classes, utilização de técnicas de CSS e organização do código.
 - **Versionamento:** Utilização correta dos conceitos aprendidos nas aulas relacionados aos commits, pull-requests e branchs. Nomenclatura, descrição e organização também serão levados em consideração.
 - **Disponibilidade:** O resultado final deverá estar hospedado em algum servidor com Deploy Contínuo configurado. 
+
+## Outros recursos
+
+### Font awesome
+https://fontawesome.com/start
+```
+<link href="https://demo.themesberg.com/swipe/vendor/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet">
+```
+
+### Bootstrap
+https://getbootstrap.com/docs/5.0/getting-started/introduction/
+```
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+```
+```
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
+```

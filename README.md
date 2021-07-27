@@ -47,7 +47,7 @@ As categorias são:
 ### Font awesome
 https://fontawesome.com/start
 ```
-<link href="https://demo.themesberg.com/swipe/vendor/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet">
+<script src="https://kit.fontawesome.com/1da2c8f5eb.js" crossorigin="anonymous"></script>
 ```
 
 ### Bootstrap

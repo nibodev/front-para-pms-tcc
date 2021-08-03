@@ -1,13 +1,19 @@
+/* TAGS NATIVAS*/
+section {
+    margin-top: 70px;
+}
+
+
 /* HEADER*/
 .header{
     height: 70px;
 }
 
 .navbar {
+    background-color: white;
     top: 0;
     left: 0;
     right: 0;
-    background-color: rgb(248, 198, 198);
     position: fixed;
     z-index: 9;
 }
@@ -17,7 +23,7 @@
     display: flex;
     flex-wrap: wrap;
     margin: 0px;
-    padding: 0px;
+    padding: 10px;
 }
 
 .menu li {
@@ -38,4 +44,36 @@
     border-width: 0px;
     border-style: solid;
     border-color: red;
+}
+
+/* Text */
+.title {
+    font-family: 'Spartan', sans-serif;
+    font-size: 36px;
+    color: #171f38e6;
+}
+
+.title-bold {
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.title-simple {
+    text-align: center;
+    font-weight: 500;
+}
+
+.subtitle {
+    font-size: 22px;
+    text-align: center;
+    color: gray;
+}
+
+/* IMAGES*/
+
+.img-title {
+    width: 70%;
+    height: auto;
+    text-align: center;
 }

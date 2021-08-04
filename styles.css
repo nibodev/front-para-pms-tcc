@@ -112,15 +112,16 @@ body{
 }
 
 /* IMAGES*/
-.img-title2 {
+.img-title2{
     width: 160%;
     height: auto;
-    text-align:right;
+    text-align: right;
 }
 
 .img-title {
-    width: 75%;
+    width: 60%;
     height: auto;
+    text-align: end;
 }
 
 

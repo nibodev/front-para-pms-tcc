@@ -67,14 +67,28 @@ body{
     text-align: center;
     font-weight: 500;
 }
+.title-simple2 {
+    text-align: left;
+    font-weight: 500;
+}
 
 .subtitle {
     font-size: 22px;
     text-align: center;
     color: gray;
 }
+.subtitle2 {
+    font-size: 22px;
+    text-align:left;
+    color: gray;
+}
 
 /* IMAGES*/
+.img-title2 {
+    width: 35%;
+    height: auto;
+    text-align:right;
+}
 
 .img-title {
     width: 70%;

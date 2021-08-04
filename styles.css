@@ -85,6 +85,32 @@ body{
     color: gray;
 }
 
+.title-little {
+    font-size: 20px;
+    text-align: center;
+    color:#171f38e6; 
+    max-width: 1100;
+
+}
+
+.title-little .row {
+    margin-left: 200px;
+    margin-right: 200px;
+
+}
+
+.card-header {
+    font-size: 20px;
+    text-align: left;
+    color:#171f38e6;
+}
+
+.card-body {
+    font-size: 14px;
+    text-align: left;
+    color:gray;
+}
+
 /* IMAGES*/
 .img-title2 {
     width: 35%;

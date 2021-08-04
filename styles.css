@@ -87,7 +87,7 @@ body{
 
 /* IMAGES*/
 .img-title2 {
-    width: 70%;
+    width: 160%;
     height: auto;
     text-align:right;
 }
@@ -95,10 +95,29 @@ body{
 .img-title {
     width: 75%;
     height: auto;
+    text-align: center;
+}
+
+
+.img-title3 {
+    width: 42%;
+    height: auto;
+    text-align:right;
+}
+
+
+.title-simple-john {
+    text-align: left;
+    font-weight: 500;
+}
+
+.subtitle-john {
+    font-size: 22px;
+    text-align: left;
+    color: gray;
     margin-left: auto;
     margin-right: auto;
 }
-
 
 /* BUTTONS */
 

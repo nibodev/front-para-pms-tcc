@@ -81,7 +81,6 @@ body{
 .img-title {
     width: 75%;
     height: auto;
-<<<<<<< HEAD
     text-align: center;
 }
 
@@ -102,11 +101,9 @@ body{
     font-size: 22px;
     text-align: left;
     color: gray;
-=======
     margin-left: auto;
     margin-right: auto;
 }
-
 
 /* BUTTONS */
 
@@ -150,5 +147,4 @@ body{
 
 .btn-space {
     margin-left: 16px;
->>>>>>> main
 }

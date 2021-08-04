@@ -81,3 +81,22 @@ body{
     height: auto;
     text-align: center;
 }
+
+
+.img-title3 {
+    width: 42%;
+    height: auto;
+    text-align:right;
+}
+
+
+.title-simple-john {
+    text-align: left;
+    font-weight: 500;
+}
+
+.subtitle-john {
+    font-size: 22px;
+    text-align: left;
+    color: gray;
+}

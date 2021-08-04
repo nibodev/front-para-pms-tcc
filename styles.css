@@ -1,8 +1,12 @@
 /* TAGS NATIVAS*/
 section {
     margin-top: 70px;
+
 }
 
+body{
+    font-family: 'Spartan', sans-serif;
+}
 
 /* HEADER*/
 .header{
@@ -23,18 +27,16 @@ section {
     display: flex;
     flex-wrap: wrap;
     margin: 0px;
-    padding: 10px;
 }
 
 .menu li {
-    margin-right: 20px;
-    margin: 0px;
-    padding: 0px;
+    margin-right: 0px;
+    padding: 10px;
 }
 
 .menu li a {
     display: block;
-    padding: 10px;
+    padding: 0px;
     text-decoration: none;
     color: grey;
 }
@@ -44,29 +46,42 @@ section {
     border-width: 0px;
     border-style: solid;
     border-color: red;
+    width: 1160px;
 }
 
-/* Text */
-.title {
-    font-family: 'Spartan', sans-serif;
-    font-size: 36px;
-    color: #171f38e6;
+.space {
+    margin-bottom: 20px;
 }
 
+
+/* TEXT */
 .title-bold {
-    font-size: 48px;
+    font-size: 56px;
     font-weight: bold;
-    text-align: center;
+    color: #183B56;
 }
+
+.title {
+    font-size: 36px;
+    color: #183B56;
+}
+
 
 .title-simple {
-    text-align: center;
+    font-weight: 500;
+}
+.title-simple2 {
+    text-align: left;
     font-weight: 500;
 }
 
 .subtitle {
+    font-size: 20px;
+    color: gray;
+}
+.subtitle2 {
     font-size: 22px;
-    text-align: center;
+    text-align:left;
     color: gray;
 }
 
@@ -97,10 +112,79 @@ section {
 }
 
 /* IMAGES*/
+.img-title2 {
+    width: 35%;
+    height: auto;
+    text-align:right;
+}
 
 .img-title {
-    width: 70%;
+    width: 75%;
     height: auto;
     text-align: center;
 }
 
+
+.img-title3 {
+    width: 42%;
+    height: auto;
+    text-align:right;
+}
+
+
+.title-simple-john {
+    text-align: left;
+    font-weight: 500;
+}
+
+.subtitle-john {
+    font-size: 22px;
+    text-align: left;
+    color: gray;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* BUTTONS */
+
+/* Botões da play store e Google Play */
+.btn.flex-container {
+    display: flex;
+    align-items: center;
+    background-color: #183B56;
+    border-color: #183B56;
+    border-radius: 5px;
+    height: 65px;
+    margin-top: 50px;
+}
+
+.btn-text-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    border-width: 0px;
+}
+
+.btn-icon {
+    font-size: 36px;
+}
+
+.btn-text-firstline {
+    margin-left: 15px;
+    font-size: 14px;
+}
+
+.btn-text-secondline {
+    margin-left: 15px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.btn-position {
+    display: flex;
+    direction: row;
+}
+
+.btn-space {
+    margin-left: 16px;
+}

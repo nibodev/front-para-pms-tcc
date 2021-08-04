@@ -58,3 +58,21 @@ https://getbootstrap.com/docs/5.0/getting-started/introduction/
 ```
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
 ```
+
+### Fonte do texto
+```
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Spartan:wght@300;400;500;700&display=swap" rel="stylesheet">
+```
+```
+font-family: 'Spartan', sans-serif;
+```
+
+### Cores
+```
+azul destaque: #183b56
+texto corrido: #424767
+azul texto menu: #171f38e6
+verde ícones: #418b78
+```

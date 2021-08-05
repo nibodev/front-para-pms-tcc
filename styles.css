@@ -23,9 +23,10 @@ h2 {
 }
 
 h3 {
-    font-size: 36px;
+    font-size: 32px;
+    text-align: left;
     color: #183B56;
-    font-weight: 500;
+    margin-bottom: 25px;
 }
 
 
@@ -195,16 +196,10 @@ h3 {
 }
 
 .container.section-learn-more p {
-font-size: 16px;
+font-size: 15px;
 color: gray;
 }
 
-.title-simple-new {
-    font-size: 32px;
-    text-align: left;
-    color: #183B56;
-    margin-bottom: 25px;
-}
 .title-section8 {
     font-family: 'Spartan', sans-serif;
     text-align: left;

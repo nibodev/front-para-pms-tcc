@@ -98,25 +98,10 @@ body{
     text-align: center;
 }
 
-
 .img-title3 {
     width: 42%;
     height: auto;
     text-align:right;
-}
-
-
-.title-simple-john {
-    text-align: left;
-    font-weight: 500;
-}
-
-.subtitle-john {
-    font-size: 22px;
-    text-align: left;
-    color: gray;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 /* BUTTONS */
@@ -161,4 +146,27 @@ body{
 
 .btn-space {
     margin-left: 16px;
+}
+
+
+/* Testes John */
+
+.btn.learn-more {
+    align-items: center;
+    background-color: #183B56;
+    border-color: #183B56;
+    height: 43px;
+    margin-top: 30px;
+}
+
+.container.section-learn-more p {
+font-size: 16px;
+color: gray;
+}
+
+.title-simple-new {
+    font-size: 32px;
+    text-align: left;
+    color: #183B56;
+    margin-bottom: 25px;
 }

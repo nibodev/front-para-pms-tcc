@@ -122,11 +122,6 @@ h3 {
 }
 
 /* IMAGES*/
-.img-title2{
-    width: 160%;
-    height: auto;
-    text-align: right;
-}
 
 .img-title {
     width: 60%;
@@ -134,10 +129,16 @@ h3 {
     text-align: end;
 }
 
+.img-title2{
+    width: 70%;
+    height: auto;
+    text-align: right;
+}
+
 .img-title3 {
     width: 42%;
     height: auto;
-    text-align:right;
+    text-align: right;
 }
 
 /* BUTTONS */
@@ -286,7 +287,21 @@ color: gray;
 
 /* Adicionando cores nos ícones */
 
-.facemodify{
-    color:#3b5998 
-    
+.face-modify{
+    color:#3b5998;
+    font-size: 25px;
+}
+
+.twitter-modify{
+    color: #00acee;
+    font-size: 25px;
+}
+
+.github-modify{
+    font-size: 25px;
+}
+
+.dribbble-modify{
+    color: #ff6347;
+    font-size: 25px;
 }

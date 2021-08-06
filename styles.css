@@ -115,6 +115,10 @@ h3 {
     color:#171f38e6;
 }
 
+.card-header button[aria-expanded="true"] ~ .fa-plus { display:none } 
+    
+.card-header button[aria-expanded="false"] ~ .fa-times { display:none } 
+
 .card-body {
     font-size: 14px;
     text-align: left;

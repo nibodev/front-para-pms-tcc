@@ -160,6 +160,19 @@ h3 {
     text-align: right;
 }
 
+.image-second-section11 {
+    display: block;
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image-third-section11 {
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
 /* BUTTONS */
 
 /* Botões da play store e Google Play */
@@ -252,7 +265,6 @@ color: gray;
     text-align: center;
     color: #183b56;
     font-weight: 100;
-
 }
 
 .text-section4 {
@@ -264,9 +276,24 @@ color: gray;
 
 .image-section11 {
     display: block;
-    width: 50%;
+    width: 45%;
     margin-left: auto;
     margin-right: auto;
+}
+
+.aling-sectio11 {
+    position: relative;
+    top: 100px;
+}
+
+.aling-second-sectio11 {
+    position: relative;
+    top: 130px;
+}
+
+.aling-third-sectio11 {
+    position: relative;
+    top: 110px;
 }
 
 .text-section11 {

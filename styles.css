@@ -81,6 +81,9 @@ h3 {
     margin-top: 170px;
 }
 
+.space-c {
+    margin-top: 158px;
+}
 
 
 /* TEXT */
@@ -245,10 +248,11 @@ color: gray;
 
 .title-section4 {
     font-family: 'Spartan', sans-serif;
-    font-size: 30px;
+    font-size: 28px;
     text-align: center;
     color: #183b56;
     font-weight: 100;
+
 }
 
 .text-section4 {

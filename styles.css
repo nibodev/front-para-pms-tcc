@@ -263,12 +263,12 @@ color: gray;
 
 .text-section11 {
     font-family: 'Spartan', sans-serif;
-    font-size: 18px;
+    font-size: 16px;
     text-align: center;
     color: grey;
 }
 .icon-star-section11 {
-    color: #eeff00;
+    color: #ffc107;
 }
 
 .aling-star-section11 {
@@ -285,7 +285,8 @@ color: gray;
 
 .boton-section11 {
     text-align: center;
-    font-size: 20px;
+    font-size: 16px;
+    color: #183b56;
 }
 
 .box-style-section8 {
@@ -296,6 +297,11 @@ color: gray;
     padding-left: 50px;
 }
 
+.box-section11 {
+    border: 1px solid #DCDCDC;
+    border-radius: 8px;
+    padding-top: 10px;
+}
 
 /* Adicionando cores nos ícones */
 

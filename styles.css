@@ -294,6 +294,10 @@ h4 {
     margin-top: 10px;
 }
 
+.section-download-now .btn.learn-more {
+    margin-top: 40px
+}
+
 .container.section-learn-more p {
 font-size: 15,5px;
 color: gray;

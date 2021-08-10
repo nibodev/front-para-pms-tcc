@@ -166,7 +166,6 @@ h4 {
     max-width: 1100;
     letter-spacing: 0.7px;
     
-
 }
 
 .title-little .row {
@@ -174,7 +173,6 @@ h4 {
     margin-right: 200px;
     font-size: 20px; 
       
-
 }
 
 .card-header {
@@ -188,9 +186,37 @@ h4 {
 .card-header button[aria-expanded="false"] ~ .fa-times { display:none } 
 
 .card-body {
-    font-size: 14px;
+    font-size: 16px;
     text-align: left;
     color:gray;
+
+}
+
+.logos {
+    padding-bottom: 50px; 
+
+}
+
+.logos-margin {
+    
+
+
+
+}
+
+.accordion {
+    padding-left: 110px;
+    padding-right: 110px;
+    padding-top: 45px;
+
+}
+
+.bottom-close {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 25px;
+
+
 }
 
 /* IMAGES*/

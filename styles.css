@@ -25,6 +25,24 @@ h3 {
     margin-bottom: 25px;
 }
 
+h4 {
+    font-size: 18px;
+    text-align: left;
+    color: #183B56;
+    margin-bottom: 25px;
+}
+
+
+.social-links i {
+    padding-right: 11px;
+} 
+
+.section-wave {
+    background-image: url(assets/section-wave.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
 
 /* HEADER*/
 .header{
@@ -85,6 +103,42 @@ h3 {
     margin-top: 158px;
 }
 
+.space-d {
+ margin-top: 116px;
+}
+
+.space-e {
+    margin-top: 129px;
+}
+
+.space-f {
+    margin-top: 157px;
+}
+
+.space-g {
+    margin-top: 135px;
+}
+   
+.space-h {
+    margin-top: 95px;
+}
+
+.space-i {
+    margin-top: 420px;
+}
+
+.space-j {
+    margin-top: 67px;
+}
+
+.space-u{
+    margin-top: 158px;
+
+}
+
+.space-p{
+    margin-top: 197px;
+}
 
 /* TEXT */
 .title-simple {
@@ -149,7 +203,7 @@ h3 {
 }
 
 .img-title2{
-    width: 70%;
+    width: 80%;
     height: auto;
     text-align: right;
 }
@@ -217,6 +271,11 @@ h3 {
     margin-left: 16px;
 }
 
+/* Adicionando borda no rodapé */
+.section-bg-blue{
+    background-color: #EFF1F5;
+
+}
 
 /* Testes John */
 
@@ -226,6 +285,14 @@ h3 {
     border-color: #183B56;
     height: 43px;
     margin-top: 30px;
+}
+
+.btn.learn-more2 {
+    align-items: center;
+    background-color: #183B56;
+    border-color: #183B56;
+    height: 43px;
+    margin-top: 10px;
 }
 
 .container.section-learn-more p {

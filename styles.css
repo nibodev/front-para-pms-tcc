@@ -199,7 +199,6 @@ h4 {
     font-size: 16px;
     text-align: left;
     color:gray;
-
 }
 
 .logos {
@@ -207,26 +206,16 @@ h4 {
 
 }
 
-.logos-margin {
-    
-
-
-
-}
-
 .accordion {
     padding-left: 110px;
     padding-right: 110px;
     padding-top: 45px;
-
 }
 
 .bottom-close {
     margin-top: 10px;
     margin-bottom: 10px;
     margin-right: 25px;
-
-
 }
 
 /* IMAGES*/
@@ -309,7 +298,6 @@ h4 {
 /* Adicionando borda no rodapé */
 .section-bg-blue{
     background-color: #EFF1F5;
-
 }
 
 /* Testes John */

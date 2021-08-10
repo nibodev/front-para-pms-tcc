@@ -25,6 +25,24 @@ h3 {
     margin-bottom: 25px;
 }
 
+h4 {
+    font-size: 18px;
+    text-align: left;
+    color: #183B56;
+    margin-bottom: 25px;
+}
+
+
+.social-links i {
+    padding-right: 6px;
+} 
+
+.section-wave {
+    background-image: url(assets/section-wave.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
 
 /* HEADER*/
 .header{
@@ -83,6 +101,10 @@ h3 {
 
 .space-c {
     margin-top: 158px;
+}
+
+.space-d {
+ margin-top: 116px;
 }
 
 
@@ -149,7 +171,7 @@ h3 {
 }
 
 .img-title2{
-    width: 70%;
+    width: 80%;
     height: auto;
     text-align: right;
 }
